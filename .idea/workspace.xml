@@ -11,8 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="+">
-      <change afterPath="$PROJECT_DIR$/lesson12/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/task5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +33,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lesson14/task1/main.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1sAjDyVRELut8iKxkO8fu2c7fPO" />
   <component name="ProjectViewState">
@@ -61,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620322173233</updated>
-      <workItem from="1620322174703" duration="16563000" />
+      <workItem from="1620322174703" duration="19450000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <created>1620322286157</created>
@@ -126,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620847046290</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+">
+      <created>1620848382752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620848382752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,9 +174,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1620840274132" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1620847049681">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1621357881178">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1620847049681" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1621357881178" />
   </component>
 </project>
