@@ -10,16 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="+">
-      <change afterPath="$PROJECT_DIR$/lesson14/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14/task5/main.js" afterDir="false" />
+    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less14">
+      <change afterPath="$PROJECT_DIR$/lesson15/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/task3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/task4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/task5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620322173233</updated>
-      <workItem from="1620322174703" duration="19450000" />
+      <workItem from="1620322174703" duration="21346000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <created>1620322286157</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620848382752</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="less14">
+      <created>1621364334569</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621364334569</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,9 +167,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task1" />
     <MESSAGE value="+" />
-    <option name="LAST_COMMIT_MESSAGE" value="+" />
+    <MESSAGE value="less14" />
+    <option name="LAST_COMMIT_MESSAGE" value="less14" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="571" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365258034">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="571" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1621365258034" />
     <state x="659" y="455" key="NewPhpFileDialog" timestamp="1620472616988">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -174,9 +183,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1620840274132" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1621357881178">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1621364339519">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1621357881178" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1621364339519" />
   </component>
 </project>
