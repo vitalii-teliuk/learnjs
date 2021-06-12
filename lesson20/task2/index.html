@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let styles = ['джаз', 'блюз']
+    alert(styles);
+    styles.push('рок-н-рол');
+    alert(styles);
+    styles[Math.floor((styles.length - 1)/2)] = 'класика';
+    alert(styles);
+    styles.shift();
+    alert(styles);
+    styles.unshift('реп', 'регі');
+    alert(styles);
+</script>
+</body>
+</html>
