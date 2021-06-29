@@ -10,18 +10,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less19">
-      <change afterPath="$PROJECT_DIR$/lesson20/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20/task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20/task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20/task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20/task5/index.html" afterDir="false" />
+    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less20">
+      <change afterPath="$PROJECT_DIR$/lesson21/task1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ComposerSettings">
     <execution />
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623182722728</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="less20">
+      <created>1623503008134</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623503008134</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +214,8 @@
     <MESSAGE value="less16" />
     <MESSAGE value="less17" />
     <MESSAGE value="less19" />
-    <option name="LAST_COMMIT_MESSAGE" value="less19" />
+    <MESSAGE value="less20" />
+    <option name="LAST_COMMIT_MESSAGE" value="less20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365258034">
@@ -221,9 +230,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1623264170353" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1623182735819">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1623503010065">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1623182735819" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1623503010065" />
   </component>
 </project>
