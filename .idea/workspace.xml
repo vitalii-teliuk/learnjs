@@ -10,21 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less21">
-      <change afterPath="$PROJECT_DIR$/lesson21/task10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21/task9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson22/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson22/task2/index.html" afterDir="false" />
+    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less22">
+      <change afterPath="$PROJECT_DIR$/lesson22/task3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/task2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson22/task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson22/task2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +76,7 @@
       <updated>1620322173233</updated>
       <workItem from="1620322174703" duration="21346000" />
       <workItem from="1621877332927" duration="10010000" />
-      <workItem from="1624991357479" duration="7639000" />
+      <workItem from="1624991357479" duration="8564000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <created>1620322286157</created>
@@ -208,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624981182078</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="less22">
+      <created>1625599239470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1625599239471</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +232,8 @@
     <MESSAGE value="less19" />
     <MESSAGE value="less20" />
     <MESSAGE value="less21" />
-    <option name="LAST_COMMIT_MESSAGE" value="less21" />
+    <MESSAGE value="less22" />
+    <option name="LAST_COMMIT_MESSAGE" value="less22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365258034">
@@ -251,9 +248,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1624990644234" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624981188485">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1625599244854">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624981188485" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1625599244854" />
   </component>
 </project>
