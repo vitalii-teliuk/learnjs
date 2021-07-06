@@ -5,6 +5,14 @@
     <title>Title</title>
 </head>
 <body>
-
+<script>
+    function filterRange(arr, a, b){
+        return arr.filter(item => (a <= item && item <= b));
+    }
+    let arr = [3, 5, 545, 22, 2, 7];
+    let filtered = filterRange(arr, 2, 100);
+    alert(filtered);
+    alert(arr);
+</script>
 </body>
 </html>
