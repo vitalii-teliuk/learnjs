@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less23">
-      <change afterPath="$PROJECT_DIR$/lesson24/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson24/task2/index.html" afterDir="false" />
+    <list default="true" id="5f1e6ee5-e39b-4c73-b69d-8a362b470a84" name="Default Changelist" comment="less24">
+      <change afterPath="$PROJECT_DIR$/lesson25/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson25/task2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,8 @@
       <updated>1620322173233</updated>
       <workItem from="1620322174703" duration="21346000" />
       <workItem from="1621877332927" duration="10010000" />
-      <workItem from="1624991357479" duration="12033000" />
+      <workItem from="1624991357479" duration="14156000" />
+      <workItem from="1630951132849" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <created>1620322286157</created>
@@ -219,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625765949305</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="less24">
+      <created>1625767404921</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1625767404921</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +257,8 @@
     <MESSAGE value="less21" />
     <MESSAGE value="less22" />
     <MESSAGE value="less23" />
-    <option name="LAST_COMMIT_MESSAGE" value="less23" />
+    <MESSAGE value="less24" />
+    <option name="LAST_COMMIT_MESSAGE" value="less24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365258034">
@@ -264,9 +273,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1624990644234" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1625765958364">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1625767419704">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1625765958364" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1625767419704" />
   </component>
 </project>
